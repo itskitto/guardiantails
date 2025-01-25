@@ -4,7 +4,7 @@
 
 ### First pass mockup
 
-![website mockup](/mockups/first-mock.png)
+![website mockup](/mockups/first-mockup.png)
 
 #### Next steps
 
